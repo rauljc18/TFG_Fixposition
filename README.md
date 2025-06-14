@@ -1,4 +1,4 @@
-# TFG_Fixposition
+# Archivos y Resultados de Pruebas del TFG: Scripts, Datos y Videos
 
 Este repositorio contiene los archivos de las pruebas realizadas durante el Trabajo de Fin de Grado (TFG). Dentro de la carpeta `Pruebas` hay subcarpetas que contienen los archivos de datos generados, las trayectorias de referencia y los scripts de MATLAB empleados en cada escenario para el análisis de resultados.
 
