@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1"
+creator="ATICA">
+<metadata>
+<name>Atica-isa </name>
+<desc>proyecto atica</desc>
+<author>
+<name>Universidad de Malaga</name>
+<email>emilio.fernandez@uma.es</email>
+ </author>
+<copyright>--</copyright>
+<link>href="www.isa.uma.es"</link>
+</metadata>
+<trk>
+<name>Ruta Atica</name>
+<trkseg>
+<trkpt lat="36.716663" lon="-4.488586">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:17Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716668" lon="-4.488585">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:25Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716675" lon="-4.488582">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:29Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716684" lon="-4.488579">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:32Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716692" lon="-4.488576">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:35Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716702" lon="-4.488573">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:39Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716713" lon="-4.488571">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:44Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716721" lon="-4.488568">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:47Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716730" lon="-4.488566">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:51Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716739" lon="-4.488563">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:55Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716753" lon="-4.488560">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:31:59Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716769" lon="-4.488557">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:04Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716781" lon="-4.488554">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:07Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716792" lon="-4.488551">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:11Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716805" lon="-4.488548">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:15Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716818" lon="-4.488543">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:19Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716831" lon="-4.488538">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:23Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716840" lon="-4.488534">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:26Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716851" lon="-4.488530">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:29Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716862" lon="-4.488524">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:33Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716872" lon="-4.488518">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:37Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716881" lon="-4.488512">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:40Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716891" lon="-4.488506">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:43Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716901" lon="-4.488498">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:47Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716910" lon="-4.488488">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:50Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716921" lon="-4.488477">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:54Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716931" lon="-4.488465">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:32:58Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716935" lon="-4.488456">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:00Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716936" lon="-4.488446">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:02Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716936" lon="-4.488438">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:04Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716935" lon="-4.488430">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:06Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716933" lon="-4.488422">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:08Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716930" lon="-4.488415">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:10Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716928" lon="-4.488407">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:12Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716925" lon="-4.488398">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:14Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716921" lon="-4.488386">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:17Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716917" lon="-4.488374">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:19Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716914" lon="-4.488363">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:21Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716910" lon="-4.488350">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:23Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716907" lon="-4.488338">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:26Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716903" lon="-4.488328">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:28Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716898" lon="-4.488315">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:30Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716895" lon="-4.488303">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:32Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716890" lon="-4.488291">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:35Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716885" lon="-4.488277">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:38Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716880" lon="-4.488265">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:41Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716877" lon="-4.488257">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:44Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716885" lon="-4.488255">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:52Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716894" lon="-4.488255">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:55Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716903" lon="-4.488256">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:33:58Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716910" lon="-4.488257">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:34:00Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716918" lon="-4.488257">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:34:03Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716925" lon="-4.488257">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:34:06Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716933" lon="-4.488259">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:34:16Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716936" lon="-4.488261">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:34:21Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.716936" lon="-4.488261">
+    <ele>0.000000</ele>
+    <time>2000-01-01T03:34:31Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+</trkseg>
+</trk>
+</gpx>

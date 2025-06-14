@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1"
+creator="ATICA">
+<metadata>
+<name>Atica-isa </name>
+<desc>proyecto atica</desc>
+<author>
+<name>Universidad de Malaga</name>
+<email>emilio.fernandez@uma.es</email>
+ </author>
+<copyright>--</copyright>
+<link>href="www.isa.uma.es"</link>
+</metadata>
+<trk>
+<name>Ruta Atica</name>
+<trkseg>
+<trkpt lat="36.715670" lon="-4.491024">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:52:08Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715670" lon="-4.491052">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:52:40Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715670" lon="-4.491077">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:52:58Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715669" lon="-4.491108">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:53:20Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715669" lon="-4.491135">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:53:48Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715669" lon="-4.491164">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:54:21Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715668" lon="-4.491206">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:54:50Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715667" lon="-4.491258">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:55:25Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715667" lon="-4.491296">
+    <ele>0.000000</ele>
+    <time>2001-12-31T23:56:10Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+</trkseg>
+</trk>
+</gpx>

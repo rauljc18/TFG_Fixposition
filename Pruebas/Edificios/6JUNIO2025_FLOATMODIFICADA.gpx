@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ATICA" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Atica-isa</name>
+    <desc>proyecto atica</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>Ruta Atica</name>
+    <trkseg>
+      <trkpt lat="36.715426" lon="-4.490263">
+        <ele>0</ele>
+        <time>2002-01-01T01:06:54.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715428" lon="-4.490285">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:12.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715432" lon="-4.490307">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:17.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715435" lon="-4.490319">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:20.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715443" lon="-4.490335">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:24.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715451" lon="-4.490342">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:27.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715465" lon="-4.490348">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:30.000Z</time>
+      </trkpt>
+      <trkpt lat="36.71548" lon="-4.490352">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:34.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715493" lon="-4.490354">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:38.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715506" lon="-4.490354">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:42.000Z</time>
+      </trkpt>
+      <trkpt lat="36.71552" lon="-4.490352">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:45.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715534" lon="-4.490351">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:48.000Z</time>
+      </trkpt>
+      <trkpt lat="36.715548" lon="-4.490349">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:51.000Z</time>
+      </trkpt>
+      <trkpt lat="36.71555852254765" lon="-4.49034636936314">
+        <ele>0</ele>
+        <time>2002-01-01T01:07:54.567Z</time>
+      </trkpt>
+      <trkpt lat="36.71555852254765" lon="-4.49034636936314">
+        <ele>50.9455086594457</ele>
+        <time>2002-01-01T01:07:54.567Z</time>
+      </trkpt>
+      <trkpt lat="36.71559939342167" lon="-4.490348490117384">
+        <ele>50.76183268288253</ele>
+        <time>2002-01-01T01:08:07.167Z</time>
+      </trkpt>
+      <trkpt lat="36.71559939342167" lon="-4.490348490117384">
+        <ele>50.76183268288253</ele>
+        <time>2002-01-01T01:08:07.167Z</time>
+      </trkpt>
+      <trkpt lat="36.71563526575821" lon="-4.490349275208047">
+        <ele>50.592126108116744</ele>
+        <time>2002-01-01T01:08:18.427Z</time>
+      </trkpt>
+      <trkpt lat="36.71563526575821" lon="-4.490349275208047">
+        <ele>50.592126108116744</ele>
+        <time>2002-01-01T01:08:18.427Z</time>
+      </trkpt>
+      <trkpt lat="36.71568718621445" lon="-4.490350452844979">
+        <ele>50.25096891297938</ele>
+        <time>2002-01-01T01:08:31.864Z</time>
+      </trkpt>
+      <trkpt lat="36.71568718621445" lon="-4.490350452844979">
+        <ele>50.25096891297938</ele>
+        <time>2002-01-01T01:08:31.864Z</time>
+      </trkpt>
+      <trkpt lat="36.71571857412063" lon="-4.4903498649426865">
+        <ele>50.083210902724005</ele>
+        <time>2002-01-01T01:08:42.848Z</time>
+      </trkpt>
+      <trkpt lat="36.71571857412063" lon="-4.4903498649426865">
+        <ele>50.083210902724005</ele>
+        <time>2002-01-01T01:08:42.848Z</time>
+      </trkpt>
+      <trkpt lat="36.71574593412291" lon="-4.49034860100943">
+        <ele>49.963502584379796</ele>
+        <time>2002-01-01T01:08:52.430Z</time>
+      </trkpt>
+      <trkpt lat="36.71578045758443" lon="-4.490349305590144">
+        <ele>49.78264191448979</ele>
+        <time>2002-01-01T01:09:04.517Z</time>
+      </trkpt>
+      <trkpt lat="36.71578045758443" lon="-4.490349305590144">
+        <ele>49.78264191448979</ele>
+        <time>2002-01-01T01:09:04.517Z</time>
+      </trkpt>
+      <trkpt lat="36.71578045758443" lon="-4.490349305590144">
+        <ele>49.78264191448979</ele>
+        <time>2002-01-01T01:09:04.517Z</time>
+      </trkpt>
+      <trkpt lat="36.71581139931766" lon="-4.490350424413634">
+        <ele>49.60675387935083</ele>
+        <time>2002-01-01T01:09:15.826Z</time>
+      </trkpt>
+      <trkpt lat="36.71581139931766" lon="-4.490350424413634">
+        <ele>49.60675387935083</ele>
+        <time>2002-01-01T01:09:15.826Z</time>
+      </trkpt>
+      <trkpt lat="36.7158396504548" lon="-4.490351543238404">
+        <ele>49.44705385768442</ele>
+        <time>2002-01-01T01:09:24.377Z</time>
+      </trkpt>
+      <trkpt lat="36.71586858070209" lon="-4.490350630189482">
+        <ele>49.33048359460739</ele>
+        <time>2002-01-01T01:09:33.133Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

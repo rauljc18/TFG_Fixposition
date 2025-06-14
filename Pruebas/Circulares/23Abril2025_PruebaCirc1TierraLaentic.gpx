@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1"
+creator="ATICA">
+<metadata>
+<name>Atica-isa </name>
+<desc>proyecto atica</desc>
+<author>
+<name>Universidad de Malaga</name>
+<email>emilio.fernandez@uma.es</email>
+ </author>
+<copyright>--</copyright>
+<link>href="www.isa.uma.es"</link>
+</metadata>
+<trk>
+<name>Ruta Atica</name>
+<trkseg>
+<trkpt lat="36.715274" lon="-4.490133">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:16:05Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715282" lon="-4.490088">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:16:30Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715283" lon="-4.490072">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:16:34Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715284" lon="-4.490031">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:16:46Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715287" lon="-4.490013">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:16:52Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715290" lon="-4.490007">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:16:55Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715295" lon="-4.490002">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:01Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715302" lon="-4.490001">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:05Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715313" lon="-4.490000">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:10Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715322" lon="-4.489999">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:14Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715335" lon="-4.489998">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:18Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715343" lon="-4.489997">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:20Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715355" lon="-4.489995">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:24Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715362" lon="-4.489994">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:26Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715372" lon="-4.489993">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:29Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715382" lon="-4.489992">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:31Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715392" lon="-4.489990">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:34Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715399" lon="-4.489990">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:35Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715407" lon="-4.489989">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:38Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715416" lon="-4.489988">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:40Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715422" lon="-4.489987">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:42Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715430" lon="-4.489988">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:46Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715441" lon="-4.489991">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:50Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715448" lon="-4.489995">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:53Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715459" lon="-4.490007">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:17:58Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715463" lon="-4.490015">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:02Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715466" lon="-4.490026">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:05Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715468" lon="-4.490038">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:09Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715471" lon="-4.490074">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:23Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715474" lon="-4.490089">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:27Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715477" lon="-4.490102">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:31Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715479" lon="-4.490114">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:36Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715481" lon="-4.490125">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:39Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715475" lon="-4.490140">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:48Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715466" lon="-4.490149">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:52Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715449" lon="-4.490159">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:18:57Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715422" lon="-4.490171">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:06Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715407" lon="-4.490175">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:10Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715392" lon="-4.490176">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:14Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715381" lon="-4.490176">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:18Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715370" lon="-4.490175">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:22Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715352" lon="-4.490169">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:27Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715325" lon="-4.490162">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:34Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715315" lon="-4.490162">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:37Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715298" lon="-4.490158">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:44Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715287" lon="-4.490150">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:48Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715277" lon="-4.490145">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:19:54Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+<trkpt lat="36.715274" lon="-4.490132">
+    <ele>0.000000</ele>
+    <time>2025-04-23T11:20:10Z</time>
+  <extensions><smjr>-1.000000</smjr></extensions>
+  </trkpt>
+</trkseg>
+</trk>
+</gpx>
